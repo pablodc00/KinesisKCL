@@ -1,0 +1,4 @@
+rolearn: arn:aws:iam::XXXXXXXXXXXx:role/AssumedDeveloperRole
+awscredentialpath: ˜/.aws/credentials
+streamname: poc-event-bus-stream
+profile: dev
